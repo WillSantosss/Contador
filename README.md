@@ -6,7 +6,7 @@ Está se perdendo na contagem de quantos projetos está disposto a fazer? aprese
 
 ### Linguagens utilizadas
 
-* HTML5
+* HTML
 * CSS
 * JavaScript
 
